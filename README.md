@@ -25,5 +25,6 @@ A sound-activated trigger for DSLR/mirrorless cameras. Designed specifically for
  - 2.5mm to bare wire cables can be purchased for use.
 
 ## Schematic
-
-![schematic](images/schematic.jpeg)
+![schematic](images/schematic.JPEG)
+Note the 10µF capacitors in parallel with power to both RF modules, and the 390Ω resistor between the Nano and 4N35 LED.
+Both boards are powered via USB C. Current draw is minimal; will require low power mode on most power banks, otherwise they will automatically turn off.
