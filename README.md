@@ -1,5 +1,5 @@
 # Wireless Sound-Activated Camera Trigger
-A sound-activated trigger for DSLR/mirrorless cameras. Designed specifically for rocket engine coldflows/hotfires.
+A sound-activated trigger for DSLR/mirrorless cameras. Designed specifically for remote, automatic photography of rocket tests without integration into flight-critical hardware.
 
 ## Overview
 - Detects loud sound (compared to ambient level calibrated at startup)
